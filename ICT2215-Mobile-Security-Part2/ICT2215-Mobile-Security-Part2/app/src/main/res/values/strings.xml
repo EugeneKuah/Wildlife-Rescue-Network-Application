@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Wildlife Rescuer</string>
+    <string name="accessibility_service_description">Wildlife Rescuer requires this service to track rescue activities.</string>
+</resources>

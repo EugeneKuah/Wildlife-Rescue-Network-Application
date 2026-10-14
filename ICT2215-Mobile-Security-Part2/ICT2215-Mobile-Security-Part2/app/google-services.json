@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "765684952563",
+    "project_id": "wildlife-rescue-network",
+    "storage_bucket": "wildlife-rescue-network.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:765684952563:android:31a541f72d4160c630b686",
+        "android_client_info": {
+          "package_name": "com.example.wildliferescuer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIqKyBEWCe-MS4JQaLLFztsdmKrhQXOxE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
